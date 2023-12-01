@@ -2,8 +2,10 @@
 
 Developed in C++ and OpenGL, this simulation uses the Fast Fourier Transform method (FFT) with the assistance of OpenMP to simulate cloth. Additionally, it employs Physically-Based Rendering (PBR) and image-based lighting (IBL) techniques to enhance the realism of the scene visuals
 
+We describe a scheme for time integration of mass-spring sys- tems that makes use of a solver based on block coordinate descent. This scheme provides a fast solution for classical linear (Hookean) springs. We express the widely used implicit Euler method as an energy minimization problem and introduce spring directions as auxiliary unknown variables.
 
-![Screenshot 2023-12-01 at 16 19 10](https://github.com/AmrHMorsy/Cloth-Simulation/assets/56271967/b6a5146c-1252-476c-85ee-052309d7614c)
+![Screenshot 2023-12-01 at 16 37 19 2](https://github.com/AmrHMorsy/Cloth-Simulation/assets/56271967/9f6eccff-9659-4638-80f2-6604c01417ce)
+
 
 ## Features
 
