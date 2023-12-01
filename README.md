@@ -1,6 +1,7 @@
 # Cloth Simulation
 
-Developed in C++ and OpenGL, this simulation uses a Mass-Spring System approach with the assistance of OpenMP to simulate cloth dynamics. Additionally, it employs Physically-Based Rendering (PBR) and Image-Based Lighting (IBL) techniques to enhance the realism of the cloth visuals.
+
+Developed in C++ and OpenGL, this simulation employs a Mass-Spring System approach for realistic cloth dynamics, inspired by the paper ["Fast Simulation of Mass-Spring Systems"](http://graphics.berkeley.edu/papers/Liu-FSM-2013-11/Liu-FSM-2013-11.pdf) by Liu et al. Alongside this, the project leverages OpenMP for efficient parallelization and integrates advanced rendering techniques such as Physically-Based Rendering (PBR) and Image-Based Lighting (IBL) to enhance the visual realism of the simulated cloth.
 
 ![Screenshot 2023-12-01 at 16 37 19 2](https://github.com/AmrHMorsy/Cloth-Simulation/assets/56271967/9f6eccff-9659-4638-80f2-6604c01417ce)
 
@@ -16,7 +17,7 @@ Developed in C++ and OpenGL, this simulation uses a Mass-Spring System approach 
 - HDR Skyboxes create immersive and dynamic backgrounds, augmenting the overall visual experience.
 
 ### Cloth Simulation:
-- Implements a Mass-Spring System algorithm, inspired by the "Fast Simulation of Mass-Spring Systems" paper, for authentic cloth physics.
+- Implements a Mass-Spring System algorithm, inspired by the ["Fast Simulation of Mass-Spring Systems"](http://graphics.berkeley.edu/papers/Liu-FSM-2013-11/Liu-FSM-2013-11.pdf) paper, for fast and accurate simulation of cloth physics.
 - Integrated OpenMP for efficient parallelization of cloth physics computations, significantly improving performance.
 - Offers customizable parameters such as stiffness, damping, and mass, enabling diverse cloth behaviors and properties.
 - Realistic collision detection and response ensure accurate interactions between the cloth and other objects.
