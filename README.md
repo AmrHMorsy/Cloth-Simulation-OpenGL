@@ -17,7 +17,7 @@ Developed in C++ and OpenGL, this simulation employs a Mass-Spring System approa
 - HDR Skyboxes create immersive and dynamic backgrounds, augmenting the overall visual experience.
 
 ### Cloth Simulation:
-- Implements a Mass-Spring System algorithm, inspired by the ["Fast Simulation of Mass-Spring Systems"](http://graphics.berkeley.edu/papers/Liu-FSM-2013-11/Liu-FSM-2013-11.pdf) paper, for fast and accurate simulation of cloth physics.
+- Implemented a Mass-Spring System algorithm, inspired by the ["Fast Simulation of Mass-Spring Systems"](http://graphics.berkeley.edu/papers/Liu-FSM-2013-11/Liu-FSM-2013-11.pdf) paper, for fast and accurate simulation of cloth physics.
 - Integrated OpenMP for efficient parallelization of cloth physics computations, significantly improving performance.
 - Offers customizable parameters such as stiffness, damping, and mass, enabling diverse cloth behaviors and properties.
 - Realistic collision detection and response ensure accurate interactions between the cloth and other objects.
