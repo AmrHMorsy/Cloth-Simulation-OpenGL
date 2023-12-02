@@ -14,7 +14,7 @@ Developed in C++ and OpenGL, this simulation employs a Mass-Spring System approa
 - Enhanced visual fidelity with Image-Based Lighting, providing accurate reflections and illumination.
 - Shadow Mapping for dynamic, realistic shadows, enhancing the 3D appearance of the cloth.
 - Fog Rendering adds atmospheric depth, contributing to the scene's realism.
-- HDR Skyboxes create immersive and dynamic backgrounds, augmenting the overall visual experience.
+- HDR Skyboxes create immersive and dynamic backgrounds, augmenting the overall visual experience. 
 
 ### Cloth Simulation:
 - Implemented a Mass-Spring System algorithm, inspired by the ["Fast Simulation of Mass-Spring Systems"](http://graphics.berkeley.edu/papers/Liu-FSM-2013-11/Liu-FSM-2013-11.pdf) paper, for fast and accurate simulation of cloth physics.
