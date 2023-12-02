@@ -23,7 +23,7 @@ Developed in C++ and OpenGL, this simulation employs a Mass-Spring System approa
 - Realistic collision detection and response ensure accurate interactions between the cloth and other objects.
 
 ### Environmental Effects:
-- Similar to the ocean simulation, an HDR Skybox is used for a dynamic and immersive sky.
+- An HDR Skybox is used for a dynamic and immersive sky.
 - Atmospheric fog effects are implemented, adding depth and a captivating ambiance to the scene.
 - Real-time lighting effects, including adjustable light positions and intensities, enhance the realism of the cloth simulation.
 
