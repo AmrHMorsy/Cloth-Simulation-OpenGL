@@ -1,7 +1,7 @@
 # Cloth Simulation
 
 
-Developed in C++ and OpenGL, this real-time simulation employs a Mass-Spring System approach for realistic cloth dynamics, inspired by the paper ["Fast Simulation of Mass-Spring Systems"](http://graphics.berkeley.edu/papers/Liu-FSM-2013-11/Liu-FSM-2013-11.pdf) by Liu et al. Alongside this, the project leverages OpenMP for efficient parallelization and integrates advanced rendering techniques such as Physically-Based Rendering (PBR) and Image-Based Lighting (IBL) to enhance the visual realism of the simulated cloth, and an HDR skybox for a dynamic, immersive sky.
+Developed in C++ and OpenGL, this real-time simulation employs a Mass-Spring System approach for realistic cloth dynamics, inspired by the paper ["Fast Simulation of Mass-Spring Systems"](http://graphics.berkeley.edu/papers/Liu-FSM-2013-11/Liu-FSM-2013-11.pdf) by Liu et al. Alongside this, the project leverages OpenMP and OpenCL for efficient parallelization and integrates advanced rendering techniques such as Physically-Based Rendering (PBR) and Image-Based Lighting (IBL) to enhance the visual realism of the simulated cloth, and an HDR skybox for a dynamic, immersive sky.
 
 ![1](https://github.com/AmrHMorsy/Cloth-Simulation/assets/56271967/49b545ee-936b-475f-b5ec-ee613b899cd6)
 
@@ -20,6 +20,7 @@ Developed in C++ and OpenGL, this real-time simulation employs a Mass-Spring Sys
 ### Cloth Simulation:
 - Implemented a Mass-Spring System algorithm, inspired by the ["Fast Simulation of Mass-Spring Systems"](http://graphics.berkeley.edu/papers/Liu-FSM-2013-11/Liu-FSM-2013-11.pdf) paper, for fast and accurate simulation of cloth physics.
 - Integrated OpenMP for efficient parallelization of cloth physics computations, significantly improving performance.
+- Utilized OpenCL for parallelization of collision detection and collision handling algorithms.
 - Offers customizable parameters such as stiffness, damping, and mass, enabling diverse cloth behaviors and properties.
 - Realistic collision detection and response ensure accurate interactions between the cloth and other objects.
 
