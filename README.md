@@ -5,6 +5,7 @@ Developed in C++ and OpenGL, this real-time simulation employs a Mass-Spring Sys
 
 ![1](https://github.com/AmrHMorsy/Cloth-Simulation/assets/56271967/49b545ee-936b-475f-b5ec-ee613b899cd6)
 
+![image-2](https://github.com/AmrHMorsy/Cloth-Simulation/assets/56271967/04067c7c-04be-42ff-a618-d08d4e9eef89)
 
 ## Features
 
