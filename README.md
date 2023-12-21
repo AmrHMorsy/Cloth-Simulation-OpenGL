@@ -3,7 +3,7 @@
 
 Developed in C++ and OpenGL, this real-time simulation employs a Mass-Spring System approach for realistic cloth dynamics, inspired by the paper ["Fast Simulation of Mass-Spring Systems"](http://graphics.berkeley.edu/papers/Liu-FSM-2013-11/Liu-FSM-2013-11.pdf) by Liu et al. Alongside this, the project leverages OpenMP for efficient parallelization and integrates advanced rendering techniques such as Physically-Based Rendering (PBR) and Image-Based Lighting (IBL) to enhance the visual realism of the simulated cloth, and an HDR skybox for a dynamic, immersive sky.
 
-![Screenshot 2023-12-20 at 21 16 06](https://github.com/AmrHMorsy/Cloth-Simulation/assets/56271967/c2787f53-0125-41af-b5fb-578871e415ce)
+![1](https://github.com/AmrHMorsy/Cloth-Simulation/assets/56271967/49b545ee-936b-475f-b5ec-ee613b899cd6)
 
 
 ## Features
@@ -16,7 +16,7 @@ Developed in C++ and OpenGL, this real-time simulation employs a Mass-Spring Sys
 - Fog Rendering adds atmospheric depth, contributing to the scene's realism.
 - HDR Skyboxes create immersive and dynamic backgrounds, augmenting the overall visual experience. 
 
-![9](https://github.com/AmrHMorsy/Cloth-Simulation/assets/56271967/b3850d69-f057-4a17-8201-484125e5f120)
+![2](https://github.com/AmrHMorsy/Cloth-Simulation/assets/56271967/0ce2587a-9e9a-452e-83a8-4b9f101b1632)
 
 ### Cloth Simulation:
 - Implemented a Mass-Spring System algorithm, inspired by the ["Fast Simulation of Mass-Spring Systems"](http://graphics.berkeley.edu/papers/Liu-FSM-2013-11/Liu-FSM-2013-11.pdf) paper, for fast and accurate simulation of cloth physics.
@@ -24,14 +24,14 @@ Developed in C++ and OpenGL, this real-time simulation employs a Mass-Spring Sys
 - Offers customizable parameters such as stiffness, damping, and mass, enabling diverse cloth behaviors and properties.
 - Realistic collision detection and response ensure accurate interactions between the cloth and other objects.
 
-![7](https://github.com/AmrHMorsy/Cloth-Simulation/assets/56271967/b5cc46b7-ada8-4289-b3bf-80c925b66556)
+![3](https://github.com/AmrHMorsy/Cloth-Simulation/assets/56271967/4ad822d3-87b8-4190-a357-c2d8e5d7a450)
 
 ### Environmental Effects:
 - An HDR Skybox is used for a dynamic and immersive sky.
 - Atmospheric fog effects are implemented, adding depth and a captivating ambiance to the scene.
 - Real-time lighting effects, including adjustable light positions and intensities, enhance the realism of the cloth simulation.
 
-![Screenshot 2023-12-20 at 21 24 25](https://github.com/AmrHMorsy/Cloth-Simulation/assets/56271967/020a065c-86e3-4994-a509-fea001ce0552)
+![4](https://github.com/AmrHMorsy/Cloth-Simulation/assets/56271967/26647aa8-1d64-4c0b-bdee-ae6c12373094)
 
 ## Installation
 
@@ -63,6 +63,3 @@ make
 ```
 ./cloth_simulation
 ```
-
-![5](https://github.com/AmrHMorsy/Cloth-Simulation/assets/56271967/30dd2a77-2836-4e7f-b77e-90c37a44cb9e)
-
