@@ -3,7 +3,7 @@
 
 Developed in C++ and OpenGL, this real-time simulation employs a Mass-Spring System approach for realistic cloth dynamics, inspired by the paper ["Fast Simulation of Mass-Spring Systems"](http://graphics.berkeley.edu/papers/Liu-FSM-2013-11/Liu-FSM-2013-11.pdf) by Liu et al. Alongside this, the project leverages OpenMP and OpenCL for efficient parallelization and integrates advanced rendering techniques such as Physically-Based Rendering (PBR) and Image-Based Lighting (IBL) to enhance the visual realism of the simulated cloth, and an HDR skybox for a dynamic, immersive sky.
 
-![image-7](https://github.com/AmrHMorsy/Cloth-Simulation/assets/56271967/15c14a65-0b8f-44ba-8e15-70abbce87a1f)
+![1](https://github.com/AmrHMorsy/Cloth-Simulation/assets/56271967/28ee649f-03b8-41ee-8dcc-71ffaa67ed90)
 
 ## Features
 
