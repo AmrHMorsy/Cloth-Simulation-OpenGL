@@ -27,6 +27,11 @@ Developed in C++ and OpenGL, this real-time simulation employs a Mass-Spring Sys
 - Atmospheric fog effects are implemented, adding depth and a captivating ambiance to the scene.
 - Real-time lighting effects, including adjustable light positions and intensities, enhance the realism of the cloth simulation.
 
+## License
+
+This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.  
+[Read the full license here](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
 ## Installation
 
 1. Clone the repository:
