@@ -1,6 +1,3 @@
-## :email: If you need access to the full source code, please send me an email at amrmhmorsy@gmail.com
-
-
 # Cloth Simulation
 
 
