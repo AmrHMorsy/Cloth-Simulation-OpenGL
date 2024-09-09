@@ -1,6 +1,4 @@
-##
-### $${\color{red}If \space \color{red}you \space \color{red}need \space \color{red}full \space \color{red}access \space \color{red}to \space \color{red}the \space \color{red}source \space \color{red}code, \space \color{red}please \space \color{red}feel \space \color{red}free \space \color{red}to \space \color{red}send \space \color{red}me \space \color{red}an \space \color{red}email \space \color{red}at }$$ amrmhmorsy@gmail.com
-##
+## :email: If you need access to the full source code, please send me an email at amrmhmorsy@gmail.com
 
 
 # Cloth Simulation
